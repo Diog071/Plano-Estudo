@@ -1,25 +1,95 @@
-# 📚 Plano de Estudos - Desenvolvimento Full Stack
+## 👨‍💻 Diogo Araújo
 
-Este repositório contém meu plano de estudos prático focado em desenvolvimento de software, com exercícios organizados por semanas para evolução em front-end, back-end e lógica de programação.
-
----
-
-## 🎯 Objetivo
-
-Criar uma base sólida em desenvolvimento web e programação, praticando constantemente com projetos reais e exercícios progressivos.
+Estudante de Desenvolvimento de Sistemas
 
 ---
 
-## 🧠 Estrutura do Projeto
+# 🎯 Objetivo
+Evoluir na área de desenvolvimento web através de prática constante e projetos simples.
 
-```txt
-Plano-Estudo/
-│
-├── semana-01-html-css/
-├── semana-02-css/
-├── semana-03-javascript/
-├── semana-04-dom-project/
-├── semana-05-sql/
-├── semana-06-sql-advanced/
-├── semana-07-python-api/
-└── projeto-final/
+---
+
+# 📅 Plano de Estudos por Semana
+
+## 🟢 Semana 1 – HTML e estrutura básica
+- [ ] HTML básico (tags principais)
+- [ ] Criar primeira página pessoal
+- [ ] Formulários simples
+
+📌 Resultado:
+- Página simples criada
+
+---
+
+## 🟢 Semana 2 – CSS e estilização
+- [ ] Cores e fontes
+- [ ] Box model
+- [ ] Flexbox básico
+
+📌 Resultado:
+- Página estilizada
+
+---
+
+## 🟡 Semana 3 – JavaScript básico
+- [ ] Variáveis e funções
+- [ ] If / else
+- [ ] Console e lógica simples
+
+📌 Resultado:
+- Pequenos scripts funcionando
+
+---
+
+## 🟡 Semana 4 – DOM e interatividade
+- [ ] Manipular elementos da página
+- [ ] Eventos (clique, input)
+- [ ] Projeto: To-do list
+
+📌 Resultado:
+- Aplicação interativa
+
+---
+
+## 🟠 Semana 5 – SQL básico
+- [ ] SELECT, INSERT, UPDATE
+- [ ] Filtragem de dados
+- [ ] Estrutura de banco simples
+
+📌 Resultado:
+- Banco de dados funcional
+
+---
+
+## 🟠 Semana 6 – SQL intermediário
+- [ ] JOIN básico
+- [ ] Organização de tabelas
+- [ ] Consultas mais complexas
+
+📌 Resultado:
+- Consultas mais avançadas
+
+---
+
+## 🔵 Semana 7 – Python (backend básico)
+- [ ] Funções em Python
+- [ ] Introdução a Flask
+- [ ] Criar primeira API
+
+📌 Resultado:
+- API simples funcionando
+
+---
+
+## 🔵 Semana 8 – Projeto final
+- [ ] Front + Back + SQL integrados
+- [ ] Sistema simples completo
+- [ ] Publicar no GitHub
+
+📌 Resultado:
+- Projeto final de portfólio
+
+---
+
+# 🚀 Evolução
+Este repositório acompanha minha evolução prática na área de desenvolvimento de software.
