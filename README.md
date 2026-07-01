@@ -12,8 +12,8 @@ Evoluir na área de desenvolvimento web através de prática constante e projeto
 # 📅 Plano de Estudos por Semana
 
 ## 🟢 Semana 1 – HTML e estrutura básica
-- [ ] HTML básico (tags principais)
-- [ ] Criar primeira página pessoal
+- [x] HTML básico (tags principais)
+- [x] Criar primeira página pessoal
 - [ ] Formulários simples
 
 📌 Resultado:
