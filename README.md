@@ -13,7 +13,7 @@ Evoluir na área de desenvolvimento web através de prática constante e projeto
 
 ## 🟢 Semana 1 – HTML e estrutura básica
 - [x] HTML básico (tags principais)
-- [x] Criar primeira página pessoal
+- [ ] Criar primeira página pessoal
 - [ ] Formulários simples
 
 📌 Resultado:
