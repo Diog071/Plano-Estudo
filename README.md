@@ -13,8 +13,8 @@ Evoluir na área de desenvolvimento web através de prática constante e projeto
 
 ## 🟢 Semana 1 – HTML e estrutura básica
 - [x] HTML básico (tags principais)
-- [ ] Criar primeira página pessoal
-- [ ] Formulários simples
+- [x] Criar primeira página pessoal
+- [x] Formulários simples
 
 📌 Resultado:
 - Página simples criada
@@ -22,9 +22,9 @@ Evoluir na área de desenvolvimento web através de prática constante e projeto
 ---
 
 ## 🟢 Semana 2 – CSS e estilização
-- [ ] Cores e fontes
-- [ ] Box model
-- [ ] Flexbox básico
+- [x] Cores e fontes
+- [x] Box model
+- [x] Flexbox básico
 
 📌 Resultado:
 - Página estilizada
